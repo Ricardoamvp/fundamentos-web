@@ -1,0 +1,49 @@
+#center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-hiracoide{
+    padding: 30px;
+    width: 600px;
+    height: 300px;
+}
+
+.menu li {
+    display: inline;
+    padding: 30px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.menu li a:hover {
+    color: red;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.tm {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.mb-250 {
+    margin-bottom: 250px;
+}
